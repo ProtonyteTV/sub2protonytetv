@@ -36,4 +36,4 @@ Currently out on youtube but feel free to check it i posted random stuff there �
 
 i made this site just for my personal use , but i just want share it well 🤷‍♂️
 
-welp
+welp :/
