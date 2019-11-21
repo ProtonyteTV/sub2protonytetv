@@ -16,4 +16,4 @@ X=("Type Any Name",0+16,"Type Any Name")
 ```
 
 ### Download The File
-[prank_error.zip](https://www.google.com/url?q=http%3A%2F%2Fprotonytetv.weebly.com%2Fuploads%2F7%2F4%2F0%2F2%2F74028609%2Fprank_error.zip&sa=D&sntz=1&usg=AFQjCNEOcqB6uOUAGfuMSy34vEErScg5ew)
+[prank_error.zip](https://github.com/ProtonyteTV/sub2protonytetv/raw/master/prank_error.zip)
