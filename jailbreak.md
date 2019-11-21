@@ -38,7 +38,7 @@ Welcome To ProtonyteTV Github Website But This Will Be The Same As My Official W
  ✓ iOS 1.0 - 2.2.1 - check it here -> https://www.theiphonewiki.com/wiki/Jailbreak
  ```
  
- ### HOW TO USE CHECKRA1N
+ ## HOW TO USE CHECKRA1N
  
  ```markdown
 1. Download checkra1n - https://checkra.in/
