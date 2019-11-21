@@ -1,4 +1,4 @@
-## ProtonyteTV [Home](https://protonytetv.github.io/sub2protonytetv/) / [My Siri Shortcuts](https://protonytetv.github.io/sub2protonytetv/sirishortcuts) / [Jailbreak](https://protonytetv.github.io/sub2protonytetv/jailbreak)
+## ProtonyteTV [Home](https://protonytetv.github.io/sub2protonytetv/) / [My Siri Shortcuts](https://protonytetv.github.io/sub2protonytetv/sirishortcuts) / [Jailbreak](https://protonytetv.github.io/sub2protonytetv/jailbreak) / [Prank Virus .vbs Script](https://protonytetv.github.io/sub2protonytetv/fakevbs-script)
 
 Welcome To ProtonyteTV Github Website But This Will Be The Same As My Official Website and google sites
 
