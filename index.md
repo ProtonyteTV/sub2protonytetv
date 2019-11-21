@@ -21,20 +21,15 @@ News Feed
 # 8.KTEMGraphics9 To ProtonyteTV Site Renovation - Jan 7 2018
 # 9.Backup Site Created - Feb 19 2019
 # 10.ProtonyteTV Hits 1k Subscribers! - May 10 2019
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Checkout This Channels
+[MoreProtonyteTV](https://www.youtube.com/channel/UCIpYp9uzwn105vJU4GAGh5g) [KukoBrothersVlogs](https://www.youtube.com/channel/UCcoY0bsWxCkBdckDUk4pq7g)[RaptorGaminHD](https://www.youtube.com/channel/UCdLeCvDi4najMaUXF7YS9FA)
+[PewDiePie](https://www.youtube.com/user/PewDiePie)
 
-### Jekyll Themes
+[Subscribe Today](https://www.youtube.com/channel/UCYlaibAtoGVFsd9PZUGAc1Q?sub_confirmation=1)
+
+### Its Free To Subscribe
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ProtonyteTV/sub2protonytetv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
