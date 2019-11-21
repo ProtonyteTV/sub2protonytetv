@@ -24,10 +24,10 @@ News Feed
 ```
 
 ### Checkout This Channels
-[MoreProtonyteTV](https://www.youtube.com/channel/UCIpYp9uzwn105vJU4GAGh5g) [KukoBrothersVlogs](https://www.youtube.com/channel/UCcoY0bsWxCkBdckDUk4pq7g)[RaptorGaminHD](https://www.youtube.com/channel/UCdLeCvDi4najMaUXF7YS9FA)
-[PewDiePie](https://www.youtube.com/user/PewDiePie)
+[MoreProtonyteTV](https://www.youtube.com/channel/UCIpYp9uzwn105vJU4GAGh5g) / [KukoBrothersVlogs](https://www.youtube.com/channel/UCcoY0bsWxCkBdckDUk4pq7g) / [RaptorGaminHD](https://www.youtube.com/channel/UCdLeCvDi4najMaUXF7YS9FA)
+/ [PewDiePie](https://www.youtube.com/user/PewDiePie)
 
-[Subscribe Today](https://www.youtube.com/channel/UCYlaibAtoGVFsd9PZUGAc1Q?sub_confirmation=1)
+   [Subscribe Today](https://www.youtube.com/channel/UCYlaibAtoGVFsd9PZUGAc1Q?sub_confirmation=1)
 
 ### Its Free To Subscribe
 
