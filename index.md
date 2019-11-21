@@ -12,8 +12,8 @@ Welcome To ProtonyteTV Github Website But This Will Be The Same As My Official W
 ```markdown
 News Feed
 
-# 1.Created GitHub Page
-# 2.Added Can I Jaibreak Tab Now 10 2019
+# 1.Created GitHub Page Nov 21 2019
+# 2.Added Can I Jaibreak Tab Nov 10 2019
 # 3.Added iOS Beta Profiles - Nov 18 2019
 # 4.Added My Siri Shortcuts - Oct 16 2019
 # 5.ProtonyteTV Hits 1K Subscribers - May 17 2019
