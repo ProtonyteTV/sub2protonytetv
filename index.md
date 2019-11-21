@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ABOUT ME OR YOU?
 
-##Streamer On YouTube / Gamer Thats It.
+## Streamer On YouTube / Gamer Thats It.
 
 ```markdown
 News Feed
