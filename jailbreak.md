@@ -41,7 +41,7 @@ Welcome To ProtonyteTV Github Website But This Will Be The Same As My Official W
  ### HOW TO USE CHECKRA1N
  
  ```markdown
-1.Download checkra1n - https://checkra.in/
+1. Download checkra1n - https://checkra.in/
 
 2. List of supported devices
 A5 – A11 devices
