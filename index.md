@@ -32,6 +32,13 @@ News Feed
 
 ### Its Free To Subscribe
 
+## Streamlabs Donations 
+[https://streamlabs.com/ktemgraphics9/tip](https://streamlabs.com/ktemgraphics9/tip)
+
+## KTEM Head Clicker 
+### Download ProtonyteTV First Game "KTEM Head Clicker" 
+[Download](https://ktemgames.itch.io/ktem-head-clicker-early-access)
+
 Currently out on youtube but feel free to check it i posted random stuff there 😅
 
 i made this site just for my personal use , but i just want share it well 🤷‍♂️
