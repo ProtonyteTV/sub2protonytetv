@@ -41,36 +41,35 @@ Welcome To ProtonyteTV Github Website But This Will Be The Same As My Official W
  ### HOW TO USE CHECKRA1N
  
  ```markdown
- 1.Download checkra1n - https://checkra.in/
+1.Download checkra1n - https://checkra.in/
 
-
-1. List of supported devices
+2. List of supported devices
 A5 – A11 devices
 
-2. Open the dmg package
+3. Open the dmg package
 
-3. Then Move it on your applications folder
+4. Then Move it on your applications folder
 
-4. Open Your Lauchpad , click on checkra1n
+5. Open Your Lauchpad , click on checkra1n
 
-5. Plug in your device on you pc or mac 
+6. Plug in your device on you pc or mac 
 
 
 *windows and linux is still on development*
 
-6. Click start to jailbreak your device
+7. Click start to jailbreak your device
 
-7. now  your device will enter recovery mode
+8. now  your device will enter recovery mode
 
-8. After that follow the written guide on the ui
+9. After that follow the written guide on the ui
 
-9. now checkra1n will start jailbreaking your device
+10. now checkra1n will start jailbreaking your device
 
-10. after booting , open the checkra1n app
+11. after booting , open the checkra1n app
 
-11. download cydia
+12. download cydia
 
-12. your done , now you can install tweaks
+13. your done , now you can install tweaks
 
 ```
 
