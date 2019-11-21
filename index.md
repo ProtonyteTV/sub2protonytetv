@@ -1,4 +1,4 @@
-## ProtonyteTV [Home](https://protonytetv.github.io/sub2protonytetv/) / [My Siri Shortcuts]()
+## ProtonyteTV [Home](https://protonytetv.github.io/sub2protonytetv/) / [My Siri Shortcuts](https://protonytetv.github.io/sub2protonytetv/sirishortcuts)
 
 Welcome To ProtonyteTV Github Website But This Will Be The Same As My Official Website and google sites
 
